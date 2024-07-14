@@ -1,4 +1,5 @@
 # Weather Dashboard
+Replace `YOUR_API_KEY` with your actual OpenWeatherMap API key in the `script.js` code
 
 ## Description
 
