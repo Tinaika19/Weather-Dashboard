@@ -31,5 +31,7 @@ THEN I am again presented with current and future conditions for that city<br>
 - OpenWeatherMap API<br>
 
 ## Screenhot
+![Screenshot of the application](screenshot.JPG)
 
 ## Link
+https://tinaika19.github.io/Weather-Dashboard/
