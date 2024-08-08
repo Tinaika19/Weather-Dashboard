@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_API_KEY';
+const apiKey = '1c881aac6754693b5cad489d651f8dac';
 
 // Add event listener to the search form
 document.getElementById('search-form').addEventListener('submit', function(event) {
